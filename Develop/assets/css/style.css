@@ -23,7 +23,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/*changed the following div to nav*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
